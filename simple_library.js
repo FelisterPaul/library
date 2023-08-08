@@ -11,7 +11,7 @@
 
 let libray_Name = ['Paul Library'];
 let books = ['Life of stories', '7 hours of sleep','Night Habits'];
-let book1 = [[12 'Life of a single mother'], 
+let book1 = [[12 'Life of stories'], 
 
 
 let books_ = {
